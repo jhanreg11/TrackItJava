@@ -1,6 +1,9 @@
 ## Trackit (Java)
+![](src/main/resources/img/trackit-logo.png)
+
+
 This was originally created as my final project for COMSC-256, Advanced Programming in Java.
-This was inspired by my old project, TrackIt, which you can view [here](https://github.com/jhanreg11/TrackIt).
+This was inspired by my old webapp, TrackIt, which you can view [here](https://github.com/jhanreg11/TrackIt).
 
 In this project, I utilize JavaFX and MySQL to create a fully functional small-business accounting application. 
 
@@ -17,7 +20,7 @@ Some of the features include:
 1. Clone this repository into your machine
 2. Download MySQL (if you don't already have it) and start the server. I used version 8.0.15, but most others should work as well.
     * You can download it from [here](https://dev.mysql.com/downloads/mysql/).
-3. Run the SQL script named [create_db.sql](https://github.com/jhanreg11/TrackItJava/create_db.sql) to initialize the 
+3. Run the SQL script named [create_db.sql](https://github.com/jhanreg11/TrackItJava/blob/master/create_db.sql) to initialize the 
 database.
     * You can see a tutorial on how to run a SQL script [here](https://dev.mysql.com/doc/refman/8.0/en/mysql-batch-commands.html).
 4. Run the project using the following command in the Terminal/Command Line from the root directory of the project:

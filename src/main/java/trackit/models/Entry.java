@@ -1,5 +1,4 @@
 // MADE BY: Jacob Hanson-Regalado
-// STUDENT ID: 1732241
 
 package trackit.models;
 
